@@ -161,11 +161,11 @@ const About = () => {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                   {[
                     {
-                      name: "Felix von Heland",
+                      name: "David Coutu",
                       role: "CEO and Founder",
-                      bio: "Leading WRLDS Technologies with a vision to transform the future of smart textiles.",
+                      bio: "Leading Dante Labs with a vision to transform the future of decentralized things.",
                       image:
-                        "/lovable-uploads/aa5291bd-2417-4c1e-9a02-0bcc71a92507.png",
+                        "https://i.ibb.co/tTgsLrx5/David-Coutu-owner-beyond-cloud-advisor.jpg",
                     },
                     {
                       name: "Niek Bijman",
@@ -175,18 +175,16 @@ const About = () => {
                         "/lovable-uploads/e502f601-c519-43a8-86f5-5fa89ae50d2f.png",
                     },
                     {
-                      name: "Chengjie Li",
-                      role: "Hardware Lead",
-                      bio: "Expert in embedded systems engineering, leading our hardware development efforts.",
-                      image:
-                        "/lovable-uploads/3de85ddd-15e1-4216-9697-f91abb9a47ce.png",
+                      name: "Olga M.",
+                      role: "Senior Manager Talent Acquisition",
+                      bio: "Hiring Talents working on decentralized world",
+                      image: "https://i.ibb.co/bgVfBMqd/1776161932289.jpg",
                     },
                     {
-                      name: "Love",
+                      name: "Christian Einger",
                       role: "COO",
                       bio: "Overseeing daily operations and ensuring business objectives are met effectively.",
-                      image:
-                        "/lovable-uploads/a9bb9110-964a-43b0-a5ab-7162140cd133.png",
+                      image: "https://i.ibb.co/Q3DWSb1S/Christian-Eigner.jpg",
                     },
                   ].map((member, i) => (
                     <Card

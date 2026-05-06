@@ -82,7 +82,7 @@ const Footer = () => {
             <p className="text-gray-300 mb-6">86-90, Paul Street, London, GB</p>
             <div className="flex space-x-4">
               <a
-                href="https://www.linkedin.com/company/wrldstechnologies/"
+                href="https://www.linkedin.com/company/dante-labs-agency/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-gray-800 flex items-center justify-center text-gray-300 transition-colors hover:bg-gray-700 hover:text-white"
