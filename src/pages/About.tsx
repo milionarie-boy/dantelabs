@@ -168,11 +168,10 @@ const About = () => {
                         "https://i.ibb.co/tTgsLrx5/David-Coutu-owner-beyond-cloud-advisor.jpg",
                     },
                     {
-                      name: "Niek Bijman",
-                      role: "Software Lead",
-                      bio: "Specializing in cloud infrastructure and APIs for seamless data integration.",
-                      image:
-                        "/lovable-uploads/e502f601-c519-43a8-86f5-5fa89ae50d2f.png",
+                      name: "Richard Hughes",
+                      role: "Senior Assistant Manager",
+                      bio: "",
+                      image: "https://i.ibb.co/gNpTJz2/1777114051131.jpg",
                     },
                     {
                       name: "Olga M.",

@@ -42,7 +42,7 @@ const projects = [
     description:
       "Supply chain transparency platform with IoT integration, smart contract automation, and real-time tracking for global enterprises.",
     tags: ["Enterprise", "Supply Chain", "IoT", "Automation"],
-    imageUrl: "/lovable-uploads/d5ce901e-2ce0-4f2a-bce1-f0ca5d6192df.png",
+    imageUrl: "",
     link: "/projects/hockey",
   },
 ];

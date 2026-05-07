@@ -58,7 +58,7 @@ const Hero = () => {
             playsInline
             preload="metadata"
             className={`w-full h-full object-cover opacity-70 grayscale ${isMobile ? "object-right" : "object-center"}`}
-            poster="/lovable-uploads/4bfa0d71-3ed2-4693-90b6-35142468907f.png"
+            poster="https://i.ibb.co/YnBSDkC/Dantelabs.webp"
           >
             <source
               src="/lovable-uploads/video_1751292840840_1751292842546.mp4"
@@ -66,8 +66,8 @@ const Hero = () => {
             />
             {/* Fallback image if video fails to load */}
             <img
-              src="/lovable-uploads/4bfa0d71-3ed2-4693-90b6-35142468907f.png"
-              alt="WRLDS Technologies Connected People"
+              src="https://i.ibb.co/YnBSDkC/Dantelabs.webp"
+              alt="Dante Labs Connected People"
               className={`w-full h-full object-cover opacity-70 grayscale ${isMobile ? "object-right" : "object-center"}`}
             />
           </video>
