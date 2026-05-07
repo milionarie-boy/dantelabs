@@ -142,28 +142,153 @@ const openRoles: Role[] = [
       "Empathetic, proactive and highly organized",
     ],
   },
+  {
+    title: "Full-stack developer",
+    team: "Engineering",
+    location: "Remote · World",
+    type: "Full-time/Part-time",
+    budget: "$ 60-80 / hr",
+    description:
+      "This role combines blockchain development with frontend and backend engineering. You’ll take ownership of entire features from blockchain logic to user interface and work closely with product managers, designers, and other developers.",
+    responsibilities: [
+      "Develop and maintain backend APIs, services, and blockchain integration layers.",
+      "Collaborate with the smart contract team to connect UI/UX with on-chain functionality.",
+      "Optimize performance, scalability, and responsiveness across the stack.",
+      "Participate in technical planning, code reviews, and cross-functional discussions.",
+    ],
+    requirements: [
+      "Frontend: React.js/Next.js, TypeScript/Javascript, TailwindCSS",
+      "Backend: Node.js, Express, MongoDB",
+      "Web3: ethers.js ",
+    ],
+  },
+  {
+    title: "Senior Rust Engineer",
+    team: "Engineering",
+    location: "Remote · World",
+    type: "Full-time/Part-time",
+    budget: "$ 60-80 / hr",
+    description:
+      "As a Senior Rust Backend Engineer, you’ll help us build robust systems that power Web3 wallets, smart contract interactions, token bridges, and more.",
+    responsibilities: [
+      "Develop and maintain **Rust-based microservices** for blockchain integrations",
+      "Architect systems to support millions of requests across multiple chains",
+      "Build APIs for smart wallets, token swaps, and cross-chain operations",
+      "Work with Web3 standards: **ERC20, ERC4337, account abstraction**, etc.",
+      "Collaborate across smart contracts, frontend, and DevOps teams",
+    ],
+    requirements: [
+      "Languages: Rust (primary), Node.js",
+      "Blockchains: Ethereum (EVM), Solana, Cosmos",
+      "Standards & Protocols: WebSockets, REST, gRPC, Web3.js, Ethers.js",
+    ],
+  },
+  {
+    title: "GO Engineer",
+    team: "Engineering",
+    location: "Remote · World",
+    type: "Full-time/Part-time",
+    budget: "$ 60-80 / hr",
+    description:
+      "In this role, you will be responsible for designing, building, and maintaining high-performance, scalable, and reliable backend systems and services.",
+    responsibilities: [
+      "Design, develop, test, and deploy high-performance backend services, APIs, and microservices in Go.",
+      "Contribute to system design and architecture decisions to ensure services are scalable, maintainable, and fault-tolerant.",
+      "Work with frontend developers, product managers, and other engineering teams to integrate services and define clear APIs.",
+      "Write clean, well-documented, and testable code. Participate in code reviews and advocate for best practices in software development.",
+      "Identify and resolve performance bottlenecks, ensuring high throughput and low latency in production systems.",
+    ],
+    requirements: [
+      "3+ years of professional software development experience.",
+      "Proven track record as a Go Developer, with substantial experience building production backend systems in Go (Golang).",
+      "Experience with distributed systems, concurrency patterns, and microservices architecture.",
+    ],
+  },
+  {
+    title: "Python Backend Engineer",
+    team: "Engineering",
+    location: "Remote · World",
+    type: "Full-time/Part-time",
+    budget: "$ 60-80 / hr",
+    description:
+      "The ideal candidate will leverage their expertise in data processing, AI algorithms, and machine learning to build intelligent systems that optimize decision-making and drive innovation across our platform.",
+    responsibilities: [
+      "Build and optimize scalable data pipelines using Python, SQL, PySpark, and other tools for efficient data processing.",
+      "Blockchain Analytics: Leverage blockchain analytics tools to analyze on-chain data, build blockchain-based solutions, and drive decision-making based on decentralized data.",
+    ],
+    requirements: [
+      "Advanced proficiency in Python, SQL, PySpark, and other data engineering tools.",
+      "Solid experience with blockchain analytics, on-chain metrics, and working knowledge of smart contracts and decentralized networks.",
+      "Good at React/Next.js, Node.js, MongoDB/PostSQL",
+    ],
+  },
+  {
+    title: "Lead Developer",
+    team: "Engineering",
+    location: "Remote · World",
+    type: "Full-time/Part-time",
+    budget: "$ 60-80 / hr",
+    description:
+      "This role combines blockchain development with leadership in frontend and backend engineering.",
+    responsibilities: [
+      "Lead and manage a team of full-stack developers to build and maintain decentralized applications.",
+      "Design and oversee the architecture of backend APIs, services, and blockchain integration layers.",
+      "Collaborate closely with product managers, smart contract teams, and designers to deliver scalable, functional, and user-friendly applications.",
+      "Ensure code quality and best practices through regular code reviews and mentorship.",
+      "Optimize application performance, scalability, and security across the full stack.",
+      "Drive technical planning, sprint meetings, and cross-functional collaboration to deliver timely and efficient solutions.",
+      "Provide guidance on new technologies, frameworks, and strategies to keep the team on the cutting edge of Web3 development.",
+      "Take ownership of technical decision-making and contribute to overall product strategy.",
+    ],
+    requirements: [
+      "Frontend: React.js/Next.js, TypeScript/JavaScript, TailwindCSS",
+      "Backend: Node.js, Express, MongoDB",
+      "Web3: ethers.js",
+      "Blockchain: Ethereum, Solana, or other smart contract platforms",
+    ],
+  },
+  {
+    title: "Blockchain Developer",
+    team: "Engineering",
+    location: "Remote · World",
+    type: "Full-time/Part-time",
+    budget: "$ 60-80 / hr",
+    description:
+      "As a Blockchain Developer, you will be responsible for developing and implementing blockchain solutions and smart contracts, ensuring the security, scalability, and efficiency of our decentralized platforms.",
+    responsibilities: [
+      "Design, develop, test, and deploy smart contracts on blockchain platforms ( Ethereum, Solana, Polkadot) to support various decentralized applications (DApps)",
+      "Integrate blockchain systems with existing backend services, ensuring seamless interaction between the blockchain and other components of the platform.",
+      "Collaborate with frontend and backend developers to ensure smooth integration of blockchain features, APIs, and data structures.",
+    ],
+    requirements: [
+      "Proven experience as a Blockchain Developer or similar role, preferably working with blockchain platforms such as Ethereum, Solana, or Polkadot.",
+      "Strong knowledge of blockchain concepts, such as consensus mechanisms, smart contracts, and decentralized networks.",
+      "Proficiency in programming languages such as React.js/Next.js, Node.js/Python, Solidity, Rust for blockchain development.",
+      "Strong understanding of decentralized application (DApp) development and Web3 technologies.",
+    ],
+  },
 ];
 
 const perks = [
   {
     icon: Globe2,
-    title: "Fully remote",
-    body: "Work from anywhere. We optimize for outcomes, not hours at a desk.",
+    title: "Remote-First",
+    body: "Work from anywhere, but stay connected to our HQ. We offer co-working memberships and an annual team week in US.",
   },
   {
     icon: Heart,
-    title: "Health & wellness",
-    body: "Generous health, dental and mental wellness coverage for you and family.",
+    title: "Premium Tech Setup",
+    body: "MacBook Pro (M3 Max) or equivalent Windows/Linux workstation, plus a $1,000 home office allowance.",
   },
   {
     icon: Zap,
-    title: "Real ownership",
-    body: "Meaningful equity and a voice in the direction of the product you build.",
+    title: "Flexible Hours",
+    body: "Core hours 11:00–15:00 GMT-3, otherwise structure your day as you see fit.",
   },
   {
     icon: Sparkles,
-    title: "Learning budget",
-    body: "Annual stipend for books, courses, conferences and tools that grow you.",
+    title: "Competitive Compensation",
+    body: "Attractive salary + performance-based bonuses. We pay in USD (or crypto, if you prefer).",
   },
 ];
 
