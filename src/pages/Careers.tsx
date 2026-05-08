@@ -42,7 +42,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · Worldwide",
     type: "Full-time/Part-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 65-100 / hr",
     description:
       "Build delightful product experiences with React, TypeScript and modern tooling.",
     responsibilities: [
@@ -63,7 +63,7 @@ const openRoles: Role[] = [
     team: "Design",
     location: "Remote · EU / US",
     type: "Full-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 65-100 / hr",
     description:
       "Shape the visual language and craft intuitive flows from first sketch to ship.",
     responsibilities: [
@@ -84,7 +84,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · Worldwide",
     type: "Full-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 70-110 / hr",
     description:
       "Design APIs and infrastructure that scale with millions of requests a day.",
     responsibilities: [
@@ -105,7 +105,7 @@ const openRoles: Role[] = [
     team: "Community",
     location: "Remote · Americas",
     type: "Full-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 70-110 / hr",
     description:
       "Write, speak and build demos that help developers get the most from our platform.",
     responsibilities: [
@@ -126,7 +126,7 @@ const openRoles: Role[] = [
     team: "Operations",
     location: "Remote · EU",
     type: "Full-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 35-55 / hr",
     description:
       "Partner with our top customers to drive adoption, retention and happiness.",
     responsibilities: [
@@ -147,7 +147,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · World",
     type: "Full-time/Part-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 70-110 / hr",
     description:
       "This role combines blockchain development with frontend and backend engineering. You’ll take ownership of entire features from blockchain logic to user interface and work closely with product managers, designers, and other developers.",
     responsibilities: [
@@ -167,7 +167,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · World",
     type: "Full-time/Part-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 110-195 / hr",
     description:
       "As a Senior Rust Backend Engineer, you’ll help us build robust systems that power Web3 wallets, smart contract interactions, token bridges, and more.",
     responsibilities: [
@@ -188,7 +188,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · World",
     type: "Full-time/Part-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 85-130 / hr",
     description:
       "In this role, you will be responsible for designing, building, and maintaining high-performance, scalable, and reliable backend systems and services.",
     responsibilities: [
@@ -209,7 +209,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · World",
     type: "Full-time/Part-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 70-110 / hr",
     description:
       "The ideal candidate will leverage their expertise in data processing, AI algorithms, and machine learning to build intelligent systems that optimize decision-making and drive innovation across our platform.",
     responsibilities: [
@@ -227,7 +227,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · World",
     type: "Full-time/Part-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 115-185 / hr",
     description:
       "This role combines blockchain development with leadership in frontend and backend engineering.",
     responsibilities: [
@@ -252,7 +252,7 @@ const openRoles: Role[] = [
     team: "Engineering",
     location: "Remote · World",
     type: "Full-time/Part-time",
-    budget: "$ 60-80 / hr",
+    budget: "$ 115-185 / hr",
     description:
       "As a Blockchain Developer, you will be responsible for developing and implementing blockchain solutions and smart contracts, ensuring the security, scalability, and efficiency of our decentralized platforms.",
     responsibilities: [
