@@ -181,8 +181,8 @@ const About = () => {
                     },
                     {
                       name: "Christian Einger",
-                      role: "COO",
-                      bio: "Overseeing daily operations and ensuring business objectives are met effectively.",
+                      role: "Global Partner",
+                      bio: "",
                       image: "https://i.ibb.co/Q3DWSb1S/Christian-Eigner.jpg",
                     },
                   ].map((member, i) => (
