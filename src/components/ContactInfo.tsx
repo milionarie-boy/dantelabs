@@ -59,13 +59,13 @@ const ContactInfo = () => {
             <div className="flex flex-col items-center text-center">
               <img
                 src="https://i.ibb.co/Q3DWSb1S/Christian-Eigner.jpg"
-                alt="Love Anderberg"
+                alt="Christian Einger"
                 className="w-32 h-32 rounded-full mb-4 object-cover filter grayscale"
               />
               <h3 className="text-xl font-bold text-gray-900">
                 Christian Einger
               </h3>
-              <p className="text-gray-600 mb-4">COO</p>
+              <p className="text-gray-600 mb-4">Global Partner</p>
               <div className="flex flex-col space-y-3">
                 <a
                   href="mailto:christian@dantelabs.us"
