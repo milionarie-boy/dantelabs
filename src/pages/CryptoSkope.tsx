@@ -1,5 +1,5 @@
 import ProjectPageLayout from "@/components/ProjectPageLayout";
-import { Shield, Radio, Activity, Box } from "lucide-react";
+import { Shield, Radio, Activity, Box, FlaskConical } from "lucide-react";
 
 const CryptoSkope = () => {
   return (
@@ -13,6 +13,13 @@ const CryptoSkope = () => {
       <h2 className="text-3xl font-bold mb-6">
         Case Study: CryptoSkope by DanteLabs Technologies
       </h2>
+
+      <div className="bg-yellow-50 p-4 rounded-lg mb-6 flex items-center">
+        <FlaskConical className="h-5 w-5 text-yellow-600 mr-2 flex-shrink-0" />
+        <p className="text-yellow-700 font-medium text-sm">
+          Ongoing R&D Project — Currently in Prototyping Phase
+        </p>
+      </div>
 
       <div className="bg-gray-50 p-6 rounded-lg mb-8">
         <h3 className="text-xl font-semibold mb-2">Background</h3>
