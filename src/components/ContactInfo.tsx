@@ -42,7 +42,7 @@ const ContactInfo = () => {
                   david@dantelabs.us
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/davidcoutu001/"
+                  href="https://www.linkedin.com/in/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center text-gray-700 hover:text-blue-600"
@@ -75,7 +75,7 @@ const ContactInfo = () => {
                   christian@dantelabs.us
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/christian-eigner-68979a162/"
+                  href="https://www.linkedin.com/in/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center text-gray-700 hover:text-blue-600"
